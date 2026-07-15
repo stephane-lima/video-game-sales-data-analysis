@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is an opportunity to grow as a software engineer by turning raw data into a working analytics application. I am practicing Python data ingestion, cleaning, aggregation, and interactive dashboard design with Streamlit and Plotly, so I can learn how to build software that makes complex business questions easier to answer.
 
 The dataset being analyzed is the "Video Game Sales" dataset, obtained from Kaggle. It contains historical sales information for video games with sales greater than 100000 copies sold. The dataset includes 16,598 records and provide information about video games, their platforms, genres, publishers, release years, and sales performance across different regions. Each row represent a single video game, while the columns describe characteristics of the game and its sales performance.
 
@@ -22,12 +22,11 @@ The dataset contains contains the following attributes:
 - **Other_Sales**: Sales generated in other regions of the world, measured in millions of copies
 - **Global_Sales**: Total worldwide sales of each video game, measured in millions of copies
 
+I wrote this software to explore the Video Game Sales dataset using a complete analytical pipeline. The app reads the dataset with Pandas, calculates metrics such as top titles, top genres, top platforms, top publishers, and regional sales totals, and visualizes those insights with Plotly charts inside a Streamlit dashboard.
 
-{Describe your purpose for writing this software to analyze the data.}
+The goal is to deepen my practical experience by building code that is easy to follow and that answers questions about historical video game performance across regions and release years.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 # Data Analysis Results
 
@@ -135,13 +134,15 @@ The programming language is Python (v3.14.6) with the following libraries:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+These resources helped me understand the libraries and patterns used in this project:
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [Plotly Express Documentation](https://plotly.com/python/plotly-express/)
+* [Streamlit Documentation](https://docs.streamlit.io/)
+* [Kaggle Dataset Page](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+This project can be improved with:
+* improved data cleaning so missing values are handled explicitly and the Year column is validated,
+* interactive filters for users to explore genres, platforms, publishers, and time periods,
+* a deployed Streamlit app so the dashboard can be shared and accessed from a browser.
