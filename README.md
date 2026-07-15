@@ -32,6 +32,7 @@ The dataset contains contains the following attributes:
 # Data Analysis Results
 
 **Question 1: Which are the top 10 best-selling video games worldwide?**
+
 The top 10 best-selling video games are:
 
 1. Wii Sports - 82.74 Millions copies sold
@@ -47,25 +48,30 @@ The top 10 best-selling video games are:
 
 
 **Question 2: Which video game genre has sold the most games worldwide?**
+
 Genre: Action
 Copies Sold WorldWide: 1751.18 Millions
 
 
 **Question 3: Which gaming platform has sold the most games worldwide?**
+
 Gaming Platform: PS2
 Copies Sold Worldwide: 1255.64 Millions
 
 
 **Question 4: Which publisher has sold the most games worldwide?**
+
 Publisher: Nintendo
 Copies Sold Worldwide: 1786.56 Millions
 
 
 **Question 5: How do total video game sales compare across regions?**
+
 Total video game sales are highest in **North America**(49.3%), making it the largest market. **Europe**(27.3%) has the second-highest total sales, followed by **Japan**(14.5%) and **Others**(8.95%) regions. This indicates that North America contributed the largest share of global video game sales during the period covered by the dataset.
 
 
 **Question 6: How have global video game sales changed over time?**
+
 In the Video Game Sales dataset, global video game sales show a strong growth trend from 1980's until the late 2000's. 
 
 In the early years of the dataset (1980's), annual global sales were relatively low compared to later periods. Sales increased progressively throughout the 1990's, with more significant growth occuring after 2000. The highest levels of total annual global sales occurred between 2007 and 2010, with 2008 representing the peak year for total global sales in the dataset. 
@@ -74,6 +80,7 @@ After 2009, the total yearly global sales values decreased. From 2010 onward, sa
 
 
 **Question 7: How many games were released each year?**
+
 - 1980 - 9 games released
 - 1981 - 46 games released
 - 1982 - 36 games released
