@@ -26,11 +26,11 @@ I wrote this software to explore the Video Game Sales dataset using a complete a
 
 The goal is to deepen my practical experience by building code that is easy to follow and that answers questions about historical video game performance across regions and release years.
 
-[Software Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 # Data Analysis Results
 
 **Question 1: Which are the top 10 best-selling video games worldwide?**
+
+![Bar chart showing the top 10 best-selling games worldwide](top_10_best-selling_video_games.png)
 
 The top 10 best-selling video games are:
 
@@ -48,28 +48,40 @@ The top 10 best-selling video games are:
 
 **Question 2: Which video game genre has sold the most games worldwide?**
 
-Genre: Action
+![Bar chart showing the top genres by global sales](top_genres_by_global_sales.png)
+
+Top Genre: Action
 Copies Sold WorldWide: 1751.18 Millions
 
 
 **Question 3: Which gaming platform has sold the most games worldwide?**
 
-Gaming Platform: PS2
+![Bar chart showing the top 10 platforms by global sales](top_10_platforms_by_global_sales.png)
+
+Top Gaming Platform: PS2
 Copies Sold Worldwide: 1255.64 Millions
 
 
 **Question 4: Which publisher has sold the most games worldwide?**
 
-Publisher: Nintendo
+![Bar chart showing the top 10 publishers by global sales](top_10_publishers_by_global_sales.png)
+
+Top Publisher: Nintendo
 Copies Sold Worldwide: 1786.56 Millions
 
 
 **Question 5: How do total video game sales compare across regions?**
 
+![Bar chart showing global video game sales by region](global_video_games_sales_by_region.png)
+
+![Pie chart showing the percentage of global video game sales by region](percentage_of_global_video_games_sales_by_region.png)
+
 Total video game sales are highest in **North America**(49.3%), making it the largest market. **Europe**(27.3%) has the second-highest total sales, followed by **Japan**(14.5%) and **Others**(8.95%) regions. This indicates that North America contributed the largest share of global video game sales during the period covered by the dataset.
 
 
 **Question 6: How have global video game sales changed over time?**
+
+![Line chart showing how global video games sales changed over time](global_video_game_sales_over_time.png)
 
 In the Video Game Sales dataset, global video game sales show a strong growth trend from 1980's until the late 2000's. 
 
@@ -79,6 +91,8 @@ After 2009, the total yearly global sales values decreased. From 2010 onward, sa
 
 
 **Question 7: How many games were released each year?**
+
+![Bar chart showing how many games were each year](number_of_games_released_by_year.png)
 
 - 1980 - 9 games released
 - 1981 - 46 games released
