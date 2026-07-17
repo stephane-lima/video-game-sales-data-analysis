@@ -76,7 +76,7 @@ Copies Sold Worldwide: 1786.56 Millions
 
 ![Pie chart showing the percentage of global video game sales by region](percentage_of_global_video_games_sales_by_region.png)
 
-Total video game sales are highest in **North America**(49.3%), making it the largest market. **Europe**(27.3%) has the second-highest total sales, followed by **Japan**(14.5%) and **Others**(8.95%) regions. This indicates that North America contributed the largest share of global video game sales during the period covered by the dataset.
+Total video game sales are highest in **North America**(49.3%), making it the largest market in the dataset. **Europe**(27.3%) has the second-highest total sales, followed by **Japan**(14.5%) and **Others**(8.95%) regions. This indicates that North America contributed the largest share of global video game sales during the period covered by the dataset.
 
 
 **Question 6: How have global video game sales changed over time?**

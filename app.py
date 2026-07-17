@@ -227,7 +227,7 @@ def question_six(df):
     st.subheader("Question 6: How have global video game sales changed over time?")
 
     # Group sales by year and sort the results from oldest to newest
-    sales_trend = df.groupby("Year")["Global_Sales"].sum().reset_index().sort_values(by="Year").reset_index()
+    sales_trend = df.groupby("Year")["Global_Sales"].sum().reset_index().sort_values(by="Year")
 
     # Create a line chart with markers for each year
     fig = px.line(
